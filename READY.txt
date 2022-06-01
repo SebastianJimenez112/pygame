@@ -1,0 +1,5 @@
+#Programa clon de Mario Bros con Pygame 
+
+#Autor: Juan Sebastian Jimenez Aldana
+
+import pygame
